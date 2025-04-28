@@ -39,8 +39,8 @@ gcloud auth login
 ## 📥 Clone Terraform Repositories
 Clone the repository containing both branches.
 ```
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/prdp-18/Terraform.git
+cd Terraform
 ```
 Then checkout the two branches separately:
 ```
