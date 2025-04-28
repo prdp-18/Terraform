@@ -33,7 +33,7 @@ gcloud init
 gcloud auth login
 ```
 
-4. Ensure you have **Project Owner** or **IAM Admin** access in your GCP project.
+4. Ensure you have **Project Owner** or **IAM Admin** ,**Service Account Admin** and **Service Account Key Admin** access in your GCP project.
 
 ---
 ## 📥 Clone Terraform Repositories
